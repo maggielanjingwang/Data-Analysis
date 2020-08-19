@@ -1,2 +1,2 @@
 # Data-Analysis
-student data analysis project assigned.
+It contains student data analysis projects assigned by UC Berkeley.
